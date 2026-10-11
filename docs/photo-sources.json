@@ -1,0 +1,83 @@
+[
+  {
+    "asset": "wardrobe",
+    "number": 1,
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Toyus11ghsgmt36tqcOGu2-VWrfoOn_s6RQZFV7sK6xnbAfPNEIpsrg-V6Fawpzh0ZAqsO13heEIgDEGfVzQr8yVqsExAmvLJBTSPTZJ9fLPsRTB0rT7ITKYYbWPJoTNe7iAHe=w1600",
+    "size": [
+      774,
+      1032
+    ]
+  },
+  {
+    "asset": "bedroom",
+    "number": 3,
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qjv6UAUFsFHI7SfhTQYBT4HEOnCFwu9NCKnLyyBZaSFM2pZlNhT3e8bjSsS0eesCFgv_uDc5j-GFY4KITHZVzhqyW5zkSUmxrF4fsRkXFYwcH1XhYvATeusrlTp4bPii75DMPD3A=w1600",
+    "size": [
+      1600,
+      1600
+    ]
+  },
+  {
+    "asset": "bed",
+    "number": 5,
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SqtB7cNUi9ePyteVepDhKKENfL4tAN2zIN9PIyiR599ef1ILmhO6362OK6AqgQv26Qe5t0eyuyeDnbnbFYlGkyq0v2ZLHQWwLlYcck-aisThO-BpwwGuHsv7sQXKwRSJca6oi2=w1600",
+    "size": [
+      1280,
+      960
+    ]
+  },
+  {
+    "asset": "closet",
+    "number": 6,
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RMGtIgb0I3Yz7b42zNokjvRJiNCif5IduorEYSrLXbhvHQOD7iaPN7wyzXE6bDGahP3HIgPLV_k7cFbs2upWySduPBWj8X2dBLEjww5SDxcvo-J-O14FNHvg_EL_yacMTjAzgR=w1600",
+    "size": [
+      720,
+      720
+    ]
+  },
+  {
+    "asset": "tv",
+    "number": 12,
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tnghca-_Y8hEU2DVVJ3CdQNDlGSQ8Pf3RZJR8pW2HNTk_T9fi4fZcEEOPBgl2mwZh4R0XDTYnKPQvI9NlgvsTPeM7n4a3m2If9Mk93RRylKT-h3OteaPyfrco8xOAKyIu0fcnrfw=w1600",
+    "size": [
+      1142,
+      1280
+    ]
+  },
+  {
+    "asset": "wall",
+    "number": 11,
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RK0ycVPoKwF9p4fnfRBZaZTpva3E-m3YApPTAAZjixrMIyvEZVe5v71PVDa3Dizzukoc5DoAjXyCfKP7iQN2N2zWHqwlMsa3d15j1lVyxtN-A80_rEG9WpLic_G8dRJLeE1S8U=w1600",
+    "size": [
+      720,
+      719
+    ]
+  },
+  {
+    "asset": "partition",
+    "number": 15,
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QdWCi13Di1Emm_ZcdXjzGwJr2rgzla0eZvEkHUGnSSBx0_EYLAdfx_VtO1NZJDy9ceu_y5HI9d8NvdUjn7pmQRuBKcBQhSnfINJrcQpJrG__Ux7uXND02UXMSUDIZW816VGEn0=w1600",
+    "size": [
+      1200,
+      1600
+    ]
+  },
+  {
+    "asset": "dressing",
+    "number": 16,
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SprDSpxQbIPy3EpTDy1bZLE2h5s1nLu2as8H_EUpu8PymMOMiw4PMD7SG32T9C0YjZk7xUhYveg-dVWN17USao9BVJowPT1_7CipZayULtq6Kc7vx0L0GXWrN08Lm7KfNvGZS_=w1600",
+    "size": [
+      720,
+      720
+    ]
+  },
+  {
+    "asset": "mirror",
+    "number": 17,
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RCSwNZ6esn4fhCqb6bIaLA0tmZ3Cpm4akf-9zd0l9vIQDcviRRs2LVlttbqdZUWFOWsJV9zzNP8XyfROQuqGUmfFf6cQmqJy_tWicMtr3KaZB4plHR6L6u7oSjy2LBpZyfc3xi=w1600",
+    "size": [
+      720,
+      1280
+    ]
+  }
+]

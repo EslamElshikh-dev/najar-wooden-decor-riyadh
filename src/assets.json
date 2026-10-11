@@ -1,0 +1,78 @@
+{
+  "wardrobe": {
+    "width": 774,
+    "height": 1032,
+    "sizes": [
+      480,
+      774
+    ]
+  },
+  "bedroom": {
+    "width": 1600,
+    "height": 1600,
+    "sizes": [
+      480,
+      960,
+      1440
+    ]
+  },
+  "bed": {
+    "width": 1280,
+    "height": 960,
+    "sizes": [
+      480,
+      960,
+      1280
+    ]
+  },
+  "closet": {
+    "width": 720,
+    "height": 720,
+    "sizes": [
+      480,
+      720
+    ]
+  },
+  "tv": {
+    "width": 1142,
+    "height": 1280,
+    "sizes": [
+      480,
+      960,
+      1142
+    ]
+  },
+  "wall": {
+    "width": 720,
+    "height": 719,
+    "sizes": [
+      480,
+      720
+    ]
+  },
+  "partition": {
+    "width": 1200,
+    "height": 1600,
+    "sizes": [
+      480,
+      960,
+      1200
+    ]
+  },
+  "dressing": {
+    "width": 720,
+    "height": 720,
+    "sizes": [
+      480,
+      720
+    ]
+  },
+  "mirror": {
+    "width": 720,
+    "height": 1280,
+    "sizes": [
+      480,
+      720
+    ]
+  }
+}
