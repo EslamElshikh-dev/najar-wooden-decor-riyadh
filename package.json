@@ -4,6 +4,11 @@
   "private": true,
   "description": "نجار ديكور خشبى — الأثاث والديكور الخشبي في الرياض",
   "type": "module",
-  "scripts": { "build": "node scripts/build.mjs", "check": "node scripts/check.mjs" },
-  "engines": { "node": "24.x" }
+  "scripts": {
+    "build": "node scripts/build.mjs && node scripts/developer-credit.mjs dist",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": "24.x"
+  }
 }
